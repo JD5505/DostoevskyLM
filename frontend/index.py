@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "p01--dostoevskylm--vgrjx29d46vq.code.run/predict"
+API_URL = "https://p01--dostoevskylm--vgrjx29d46vq.code.run/predict"
 
 st.set_page_config(
     page_title="Dostoevsky Language Model",
